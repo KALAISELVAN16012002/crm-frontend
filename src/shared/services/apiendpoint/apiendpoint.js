@@ -1,5 +1,5 @@
 const apiurl=()=>{
-    var url="http://44.226.122.3";
+    var url="https://casflowbackend.onrender.com";
     return url;
 }
 export default apiurl;
